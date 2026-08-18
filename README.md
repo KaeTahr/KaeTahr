@@ -1,16 +1,14 @@
-## Hi there 👋
+## kae
 
-<!--
-**KaeTahr/KaeTahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+software engineer in melbourne. backend mostly, rails + postgres in prod for a
+couple years, c# more recently.
 
-Here are some ideas to get you started:
+i keep writing compilers i'm not happy with. one in python for an undergrad
+class, one in haskell for my masters: [cedar](https://github.com/KaeTahr/Cedar),
+a language for saying where you want your c structs to sit in memory instead of
+letting the compiler decide. got a high distinction for it. still think it's bad 🙃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+4 years of gentoo, an emacs config i keep meaning to clean up, and a steadily
+growing collection of games i have started
+
+[linkedin](https://www.linkedin.com/in/kae-c/) · kae.chinchilla@gmail.com
